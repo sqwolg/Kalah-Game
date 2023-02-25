@@ -1,4 +1,4 @@
-# Kalah-Game\
+# Kalah-Game
 This is a popular board game "Kalah".\
 You can read the rules here https://en.wikipedia.org/wiki/Kalah.\
 
